@@ -1,0 +1,53 @@
+{
+    "heartData": [
+        {
+            "I1": {
+                "quality": 18.2,
+                "temp": 25
+            }
+        },
+        {
+            "I2": {
+                "quality": 2000,
+                "temp": 20
+            }
+        },
+        {
+            "RO Rejection": {
+                "value": 98
+            }
+        },
+        {
+            "TOC": {
+                "value": 3
+            }
+        }
+    ]
+}
+[
+    {
+        "Notifications": {
+            "Date and Time": "2022-01-19 14:05:12",
+            "TextLog": "wet",
+            "Type": "tew"
+        }
+    }
+]
+[
+    {
+        "Notifications": {
+            "Date and Time": "2022-01-19 14:05:17",
+            "TextLog": "wet",
+            "Type": "tew"
+        }
+    }
+]
+[
+    {
+        "Notifications": {
+            "Date and Time": "2022-01-19 14:05:25",
+            "TextLog": "wet",
+            "Type": "tew"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "groups": [{
+                "groupName": "group1",
+                "users": "test1",
+               },
+               {
+                "groupName": "group2",
+                "users": "test1",
+               }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "heartData": [
+        {
+            "I1": {
+                "quality": 18.2,
+                "temp": 25
+            }
+        },
+        {
+            "I2": {
+                "quality": 2000,
+                "temp": 20
+            }
+        },
+        {
+            "RO Rejection": {
+                "value": 98
+            }
+        },
+        {
+            "TOC": {
+                "value": 3
+            }
+        }
+    ]
+}

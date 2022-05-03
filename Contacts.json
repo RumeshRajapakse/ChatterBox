@@ -1,0 +1,44 @@
+{
+   "contacts": [
+        {
+            "UserName": "Saman",
+            "Email": "saman@gmail.com",
+            "MobileNumber":"07512312312",
+            "dateOfBirth":"1995/08/07"
+        },
+        {
+            "UserName":"Rumesh",
+            "Email": "rumesh@gmail.com",
+            "MobileNumber":"07512312312",
+            "dateOfBirth":"1995/08/07"
+        },
+
+        {
+            "UserName":"Shashi",
+            "Email": "shashi@gmail.com",
+            "MobileNumber":"07512312312",
+            "dateOfBirth":"1995/08/07"
+        },
+
+        {
+            "UserName":"Pabasara",
+            "Email": "pabasara@gmail.com",
+            "MobileNumber":"07512312312",
+            "dateOfBirth":"1995/08/07"
+        },
+
+        {
+            "UserName":"Vidhura",
+            "Email": "vidhura@gmail.com",
+            "MobileNumber":"07512312312",
+            "dateOfBirth":"1995/08/07"
+        },
+        {
+            "UserName":"Sujith",
+            "Email": "sujith@gmail.com",
+            "MobileNumber":"07512312312",
+            "dateOfBirth":"1995/08/07"
+        }
+   ]
+
+}

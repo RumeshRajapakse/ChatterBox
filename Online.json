@@ -1,0 +1,38 @@
+{
+   "onlineUsers": [
+        {
+            "UserName": "Saman",
+            "password": "saman123",
+            "MobileNumber":"07512312312"
+        },
+        {
+            "UserName":"Rumesh",
+            "Password":"RMR1234",
+            "MobileNumber":"07512312312"
+        },
+
+        {
+            "UserName":"Shashi",
+            "Password":"RMR1234",
+            "MobileNumber":"07512312312"
+        },
+
+        {
+            "UserName":"Pabasara",
+            "Password":"RMR1234",
+            "MobileNumber":"07512312312"
+        },
+
+        {
+            "UserName":"Vidhura",
+            "Password":"RMR1234",
+            "MobileNumber":"07512312312"
+        },
+        {
+            "UserName":"Sujith",
+            "Password":"RMR1234",
+            "MobileNumber":"07512312312"
+        }
+   ]
+
+}

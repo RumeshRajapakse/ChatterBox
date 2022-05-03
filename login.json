@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "MobileNumber": "07512312312",
+            "Online": "True",
+            "Password": "72B15E515BBA24F976B7230F58F716B1F60F09C6",
+            "UserName": "Rumesh"
+        },
+        {
+            "MobileNumber": "07512312312",
+            "Online": "True",
+            "Password": "A8E3EC091B52F3447194461CCAD3E0A4CDE990EB",
+            "UserName": "Shashi"
+        },
+        {
+            "MobileNumber": "07512312312",
+            "Online": "True",
+            "Password": "76948E80F62A4A65610C388964EECD048E2CE23A",
+            "UserName": "Pabasara"
+        },
+        {
+            "MobileNumber": "07512312312",
+            "Online": "False",
+            "Password": "CCFA2DBF19DF3D75BDD7122C76C5102DEBC748FE",
+            "UserName": "Vidhura"
+        },
+        {
+            "MobileNumber": "07512312312",
+            "Online": "False",
+            "Password": "02C28F68A5D14777F1EE57F719504325DAB3853C",
+            "UserName": "Sujith"
+        }
+    ]
+}
